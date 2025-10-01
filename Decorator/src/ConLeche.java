@@ -6,11 +6,11 @@ public class ConLeche extends BebidaDecorator {
 
     @Override
     public String getDescripcion() {
-        return super.getDescripcion() + " Con leche";
+        return bebida.getDescripcion() + " Con leche";
     }
 
     @Override
     public double getCosto() {
-        return super.getCosto() + 800;
+        return bebida.getCosto() + 800;
     }
 }

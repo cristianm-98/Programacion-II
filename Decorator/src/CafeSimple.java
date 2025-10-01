@@ -1,6 +1,5 @@
 public class CafeSimple implements Bebida{
 
-
     @Override
     public String getDescripcion() {
         return "Cafe Simple";
