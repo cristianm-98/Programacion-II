@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="346.0" prefWidth="523.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="co.edu.uniquindio.poo.prueba.controllers.FormularioInmuebleControllers">
+   <children>
+      <Pane prefHeight="346.0" prefWidth="523.0">
+         <children>
+            <Label fx:id="titulo" layoutX="225.0" layoutY="22.0" text="FORMULARIO" />
+            <Separator layoutX="33.0" layoutY="41.0" prefHeight="25.0" prefWidth="476.0" />
+            <Label layoutX="59.0" layoutY="79.0" text="Tipo" />
+            <ComboBox fx:id="cbTipoInmueble" layoutX="225.0" layoutY="75.0" prefWidth="150.0" />
+            <Label layoutX="63.0" layoutY="113.0" text="Id" />
+            <Label layoutX="63.0" layoutY="149.0" text="Ciudad" />
+            <Label layoutX="63.0" layoutY="183.0" text="Numero de Habitación" />
+            <Label layoutX="63.0" layoutY="216.0" text="Numero de pisos" />
+            <Label layoutX="65.0" layoutY="251.0" text="Precio" />
+            <TextField fx:id="txtId" layoutX="226.0" layoutY="109.0" />
+            <TextField fx:id="txtCiudad" layoutX="226.0" layoutY="145.0" />
+            <TextField fx:id="txtHabitacion" layoutX="226.0" layoutY="179.0" />
+            <TextField fx:id="txtPiso" layoutX="226.0" layoutY="212.0" />
+            <TextField fx:id="txtPrecio" layoutX="226.0" layoutY="247.0" />
+            <Button fx:id="btnAgregar" layoutX="214.0" layoutY="305.0" mnemonicParsing="false" onAction="#onAgregar" text="Agregar" />
+            <Button fx:id="btnRegresar" layoutX="300.0" layoutY="306.0" mnemonicParsing="false" onAction="#onRegresar" text="Regresar" />
+            <Separator layoutX="34.0" layoutY="274.0" prefHeight="25.0" prefWidth="476.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

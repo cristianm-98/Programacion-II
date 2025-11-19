@@ -1,0 +1,41 @@
+[33mcommit dce5238d7187c9a24fcb54f7b49b0f9a5852083c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Wed Oct 22 22:19:36 2025 -0500
+
+    Creacion de carpeta imagen, y metodo de limpiar textField
+
+[33mcommit 5543420c62b1e6fabd2134ed34960d6794453423[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Wed Oct 22 21:15:17 2025 -0500
+
+    Implementacion eliminar Inmueble
+
+[33mcommit d00d643306fe7a2728a7c541f7770ed75a2b0d68[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Wed Oct 22 20:54:16 2025 -0500
+
+    Implementacion del boton agregar
+
+[33mcommit 392a7214849bf324b2b324508a6f78b894100852[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Wed Oct 22 18:17:31 2025 -0500
+
+    Vista de lista de Apartamentos
+
+[33mcommit fc73c7ca11e72111825d67a716a7139d95dd4937[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Wed Oct 22 17:01:40 2025 -0500
+
+    Organización de la vista MenuPrincipal y Formulario
+
+[33mcommit 6472edaf72f168d785f7cb02e6e74e2ec8880d96[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Fri Oct 17 08:56:02 2025 -0500
+
+    Patrones
+
+[33mcommit 19564bf167c4e15c63097da109d1ce90455fccfa[m
+Author: Cristian M <ccmoralesr@uqvirtual.edu.co>
+Date:   Fri Oct 17 08:07:01 2025 -0500
+
+    Parcial de programacion
